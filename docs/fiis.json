@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "atualizado_em": "2026-10-08T17:14:10Z",
+    "atualizado_em": "2026-10-09T01:22:23Z",
     "fonte": "B3",
     "fundos": [
         {
@@ -8,7 +8,7 @@
             "isin": "BRKNCRCTF000",
             "nome": "FII KINEA RI",
             "peso_ifix": 8.764,
-            "preco": 105.48,
+            "preco": 105.32,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -89,7 +89,7 @@
             "isin": "BRKNIPCTF001",
             "nome": "FII KINEA IP",
             "peso_ifix": 4.706,
-            "preco": 92.97,
+            "preco": 93.5,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -170,7 +170,7 @@
             "isin": "BRBTLGCTF000",
             "nome": "FII BTLG",
             "peso_ifix": 4.688,
-            "preco": 104.5,
+            "preco": 104.6,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -251,7 +251,7 @@
             "isin": "BRHGLGCTF004",
             "nome": "FII HGLG PAX",
             "peso_ifix": 4.505,
-            "preco": 155.21,
+            "preco": 155.5,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -332,7 +332,7 @@
             "isin": "BRXPMLCTF000",
             "nome": "FII XP MALLS",
             "peso_ifix": 4.376,
-            "preco": 106.41,
+            "preco": 106.82,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -413,7 +413,7 @@
             "isin": "BRMXRFCTF008",
             "nome": "FII MAXI REN",
             "peso_ifix": 3.384,
-            "preco": 9.38,
+            "preco": 9.37,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -494,7 +494,7 @@
             "isin": "BRXPLGCTF002",
             "nome": "FII XP LOG",
             "peso_ifix": 3.283,
-            "preco": 100.77,
+            "preco": 101.51,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -575,7 +575,7 @@
             "isin": "BRKNRICTF007",
             "nome": "FII KINEA",
             "peso_ifix": 2.95,
-            "preco": 163.59,
+            "preco": 163.64,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -656,7 +656,7 @@
             "isin": "BRTRXFCTF003",
             "nome": "FII TRX REAL",
             "peso_ifix": 2.838,
-            "preco": 72,
+            "preco": 71.85,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -737,7 +737,7 @@
             "isin": "BRVISCCTF005",
             "nome": "FII VINCI SC",
             "peso_ifix": 2.037,
-            "preco": 112.15,
+            "preco": 112.74,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -818,7 +818,7 @@
             "isin": "BRGGRCCTF002",
             "nome": "FII GGR ZAG",
             "peso_ifix": 2.032,
-            "preco": 9.37,
+            "preco": 9.44,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -899,7 +899,7 @@
             "isin": "BRKNHYCTF005",
             "nome": "FII KINEA HY",
             "peso_ifix": 1.915,
-            "preco": 96.68,
+            "preco": 96.73,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -980,7 +980,7 @@
             "isin": "BRHGRUCTF002",
             "nome": "FII HGRU PAX",
             "peso_ifix": 1.885,
-            "preco": 121.85,
+            "preco": 123.33,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1061,7 +1061,7 @@
             "isin": "BRCPTSCTF004",
             "nome": "FII CAPI SEC",
             "peso_ifix": 1.806,
-            "preco": 7.78,
+            "preco": 7.8,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1142,7 +1142,7 @@
             "isin": "BRHGBSCTF000",
             "nome": "FII HEDGEBS",
             "peso_ifix": 1.768,
-            "preco": 19.58,
+            "preco": 19.4,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1223,7 +1223,7 @@
             "isin": "BRGARECTF001",
             "nome": "FII GUARDIAN",
             "peso_ifix": 1.621,
-            "preco": 8.68,
+            "preco": 8.67,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1304,7 +1304,7 @@
             "isin": "BRKNUQCTF004",
             "nome": "FII KINEA UN",
             "peso_ifix": 1.615,
-            "preco": 102.54,
+            "preco": 102.57,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1385,7 +1385,7 @@
             "isin": "BRIRIMCTF003",
             "nome": "FII IRIM",
             "peso_ifix": 1.49,
-            "preco": 66.81,
+            "preco": 67,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1547,7 +1547,7 @@
             "isin": "BRRECRCTF004",
             "nome": "FII REC RECE",
             "peso_ifix": 1.291,
-            "preco": 76.24,
+            "preco": 76.2,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1628,7 +1628,7 @@
             "isin": "BRBRCOCTF007",
             "nome": "FII BRESCO",
             "peso_ifix": 1.277,
-            "preco": 112.04,
+            "preco": 112.01,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1709,7 +1709,7 @@
             "isin": "BRHSMLCTF007",
             "nome": "FII HSI MALL",
             "peso_ifix": 1.224,
-            "preco": 92.35,
+            "preco": 92.73,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1790,7 +1790,7 @@
             "isin": "BRKNHFCTF004",
             "nome": "FII KINEA HF",
             "peso_ifix": 1.204,
-            "preco": 97.93,
+            "preco": 97.64,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1871,7 +1871,7 @@
             "isin": "BRPVBICTF003",
             "nome": "FII PVBI VBI",
             "peso_ifix": 1.187,
-            "preco": 70.58,
+            "preco": 71,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1952,7 +1952,7 @@
             "isin": "BRBTHFCTF000",
             "nome": "FII BTHF",
             "peso_ifix": 1.185,
-            "preco": 9.15,
+            "preco": 9.08,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2033,7 +2033,7 @@
             "isin": "BRALZRCTF006",
             "nome": "FII ALIANZA",
             "peso_ifix": 1.081,
-            "preco": 10.4,
+            "preco": 10.44,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2114,7 +2114,7 @@
             "isin": "BRLVBICTF002",
             "nome": "FII LVBI VBI",
             "peso_ifix": 1.047,
-            "preco": 102.33,
+            "preco": 102.01,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2195,7 +2195,7 @@
             "isin": "BRRZTRCTF003",
             "nome": "FII RIZA TX",
             "peso_ifix": 1.046,
-            "preco": 86.39,
+            "preco": 86.95,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2276,7 +2276,7 @@
             "isin": "BRMCCICTF008",
             "nome": "FII MAUA",
             "peso_ifix": 1.019,
-            "preco": 95.14,
+            "preco": 95.23,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2357,7 +2357,7 @@
             "isin": "BRPMLLCTF005",
             "nome": "FII PMLL PAX",
             "peso_ifix": 0.968,
-            "preco": 109.25,
+            "preco": 108.96,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2438,7 +2438,7 @@
             "isin": "BRVILGCTF001",
             "nome": "FII VINCI LG",
             "peso_ifix": 0.962,
-            "preco": 100.04,
+            "preco": 99.99,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2519,7 +2519,7 @@
             "isin": "BRHFOFCTF002",
             "nome": "FII HTOPFOF3",
             "peso_ifix": 0.952,
-            "preco": 6.7,
+            "preco": 6.5,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2600,7 +2600,7 @@
             "isin": "BRHGCRCTF000",
             "nome": "FII HGCR PAX",
             "peso_ifix": 0.937,
-            "preco": 95.86,
+            "preco": 96.57,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2681,7 +2681,7 @@
             "isin": "BRRBVACTF006",
             "nome": "FII RIOB VA",
             "peso_ifix": 0.93,
-            "preco": 8.98,
+            "preco": 9.02,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2762,7 +2762,7 @@
             "isin": "BRHGRECTF006",
             "nome": "FII HGRE PAX",
             "peso_ifix": 0.925,
-            "preco": 122.44,
+            "preco": 123.51,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2924,7 +2924,7 @@
             "isin": "BRTVRICTF001",
             "nome": "FII TIVIO RI",
             "peso_ifix": 0.889,
-            "preco": 88.49,
+            "preco": 88.5,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3005,7 +3005,7 @@
             "isin": "BRJSRECTF007",
             "nome": "FII JS REAL",
             "peso_ifix": 0.888,
-            "preco": 68.35,
+            "preco": 67.65,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3086,8 +3086,14 @@
             "isin": "BRPCIPCTF003",
             "nome": "FII PCIP PAX",
             "peso_ifix": 0.842,
-            "preco": 78.86,
+            "preco": 79.31,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-08",
+                    "pagamento": "2026-10-16",
+                    "valor": 0.65
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-09",
@@ -3167,7 +3173,7 @@
             "isin": "BRCPSHCTF017",
             "nome": "FII CPSH",
             "peso_ifix": 0.796,
-            "preco": 10.26,
+            "preco": 10.25,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3248,7 +3254,7 @@
             "isin": "BRRBRRCTF008",
             "nome": "FII RBRR PAX",
             "peso_ifix": 0.766,
-            "preco": 73.92,
+            "preco": 73.9,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3329,7 +3335,7 @@
             "isin": "BRVRTACTF008",
             "nome": "FII FATOR VE",
             "peso_ifix": 0.753,
-            "preco": 76.4,
+            "preco": 76,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3410,7 +3416,7 @@
             "isin": "BRTGARCTF009",
             "nome": "FII TG ATIVO",
             "peso_ifix": 0.751,
-            "preco": 49.63,
+            "preco": 50.2,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3491,7 +3497,7 @@
             "isin": "BRBRCRCTF000",
             "nome": "FII BC FUND",
             "peso_ifix": 0.744,
-            "preco": 44,
+            "preco": 44.23,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3572,7 +3578,7 @@
             "isin": "BRRBRXCTF006",
             "nome": "FII RBRX PAX",
             "peso_ifix": 0.733,
-            "preco": 7.84,
+            "preco": 7.88,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3653,7 +3659,7 @@
             "isin": "BRRBRYCTF004",
             "nome": "FII RBRY PAX",
             "peso_ifix": 0.709,
-            "preco": 85.8,
+            "preco": 86.57,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3734,7 +3740,7 @@
             "isin": "BRHSLGCTF009",
             "nome": "FII HSI LOG",
             "peso_ifix": 0.695,
-            "preco": 86.45,
+            "preco": 86.37,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3815,7 +3821,7 @@
             "isin": "BRVCJRCTF005",
             "nome": "FII VECTIS",
             "peso_ifix": 0.661,
-            "preco": 71.48,
+            "preco": 72.95,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3896,8 +3902,14 @@
             "isin": "BRPSECCTF006",
             "nome": "FII PSEC PAX",
             "peso_ifix": 0.642,
-            "preco": 56.01,
+            "preco": 56.25,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-08",
+                    "pagamento": "2026-10-16",
+                    "valor": 0.6
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-09",
@@ -3971,7 +3983,7 @@
             "isin": "BRMCRECTF013",
             "nome": "FII MAUA RE",
             "peso_ifix": 0.623,
-            "preco": 8.42,
+            "preco": 8.39,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4052,7 +4064,7 @@
             "isin": "BRVGHFCTF005",
             "nome": "FII VALOR HE",
             "peso_ifix": 0.605,
-            "preco": 5.78,
+            "preco": 5.82,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4133,7 +4145,7 @@
             "isin": "BRGTWRCTF003",
             "nome": "FII G TOWERS",
             "peso_ifix": 0.604,
-            "preco": 80.39,
+            "preco": 80.31,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4214,7 +4226,7 @@
             "isin": "BRVGIPCTF002",
             "nome": "FII VALORAIP",
             "peso_ifix": 0.573,
-            "preco": 75.4,
+            "preco": 76.35,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4295,7 +4307,7 @@
             "isin": "BRBTCICTF005",
             "nome": "FII BTG CRI",
             "peso_ifix": 0.569,
-            "preco": 9.04,
+            "preco": 9.02,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4457,7 +4469,7 @@
             "isin": "BRGZITCTF005",
             "nome": "FII GAZIT",
             "peso_ifix": 0.543,
-            "preco": 39.62,
+            "preco": 39.49,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4550,7 +4562,7 @@
             "isin": "BRXPCICTF007",
             "nome": "FII XP CRED",
             "peso_ifix": 0.448,
-            "preco": 82.23,
+            "preco": 82.8,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4631,7 +4643,7 @@
             "isin": "BRRZAKCTF008",
             "nome": "FII RIZA AKN",
             "peso_ifix": 0.444,
-            "preco": 80.04,
+            "preco": 80.43,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4712,7 +4724,7 @@
             "isin": "BRKORECTF012",
             "nome": "FII KORE",
             "peso_ifix": 0.436,
-            "preco": 71.35,
+            "preco": 71.39,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4793,7 +4805,7 @@
             "isin": "BRBPMLCTF006",
             "nome": "FII BTG SHOP",
             "peso_ifix": 0.429,
-            "preco": 90.85,
+            "preco": 92,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4874,7 +4886,7 @@
             "isin": "BRRBRPCTF002",
             "nome": "FII RBRP PAX",
             "peso_ifix": 0.408,
-            "preco": 53.11,
+            "preco": 53.39,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5036,7 +5048,7 @@
             "isin": "BRBBIGCTF004",
             "nome": "FII BBIG",
             "peso_ifix": 0.367,
-            "preco": 5.85,
+            "preco": 5.73,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5117,7 +5129,7 @@
             "isin": "BRKFOFCTF006",
             "nome": "FII KINEAFOF",
             "peso_ifix": 0.365,
-            "preco": 81.91,
+            "preco": 82.79,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5198,7 +5210,7 @@
             "isin": "BRHABTCTF001",
             "nome": "FII HABIT II",
             "peso_ifix": 0.353,
-            "preco": 68.88,
+            "preco": 68.8,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5279,7 +5291,7 @@
             "isin": "BRRBRLCTF001",
             "nome": "FII RBRL PAX",
             "peso_ifix": 0.351,
-            "preco": 83.58,
+            "preco": 84.42,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5360,7 +5372,7 @@
             "isin": "BRFATNCTF000",
             "nome": "FII ATHENA I",
             "peso_ifix": 0.344,
-            "preco": 86,
+            "preco": 86.18,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5441,7 +5453,7 @@
             "isin": "BRRCRBCTF000",
             "nome": "FII RIOB RC",
             "peso_ifix": 0.324,
-            "preco": 141.17,
+            "preco": 139.86,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5522,7 +5534,7 @@
             "isin": "BRAFHICTF005",
             "nome": "FII AFHI CRI",
             "peso_ifix": 0.323,
-            "preco": 96.69,
+            "preco": 97.16,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5603,7 +5615,7 @@
             "isin": "BRITRICTF008",
             "nome": "FII ITRI",
             "peso_ifix": 0.321,
-            "preco": 80.63,
+            "preco": 80.3,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5684,7 +5696,7 @@
             "isin": "BRTEPPCTF006",
             "nome": "FII TEL PROP",
             "peso_ifix": 0.258,
-            "preco": 7.62,
+            "preco": 7.68,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5765,7 +5777,7 @@
             "isin": "BRHTMXCTF000",
             "nome": "FII HOTEL MX",
             "peso_ifix": 0.255,
-            "preco": 139.56,
+            "preco": 139.54,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5846,7 +5858,7 @@
             "isin": "BRTRBLCTF007",
             "nome": "FII SDI LOG",
             "peso_ifix": 0.254,
-            "preco": 53.97,
+            "preco": 54.19,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5927,8 +5939,14 @@
             "isin": "BRCLINCTF007",
             "nome": "FII CLAVE IN",
             "peso_ifix": 0.244,
-            "preco": 89.38,
+            "preco": 89.34,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-08",
+                    "pagamento": "2026-10-16",
+                    "valor": 1
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-09",
@@ -6008,7 +6026,7 @@
             "isin": "BRRZATCTF009",
             "nome": "FII ARCTIUM",
             "peso_ifix": 0.243,
-            "preco": 91.05,
+            "preco": 90.79,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6089,7 +6107,7 @@
             "isin": "BRVINOCTF001",
             "nome": "FII VINCI OF",
             "peso_ifix": 0.237,
-            "preco": 4.55,
+            "preco": 4.56,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6170,7 +6188,7 @@
             "isin": "BRKISUCTF000",
             "nome": "FII KILIMA",
             "peso_ifix": 0.235,
-            "preco": 6.24,
+            "preco": 6.26,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6245,7 +6263,7 @@
             "isin": "BRBCRICTF009",
             "nome": "FII BEES CRI",
             "peso_ifix": 0.233,
-            "preco": 57.84,
+            "preco": 58.62,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6326,7 +6344,7 @@
             "isin": "BRICRICTF004",
             "nome": "FII CI IPCA",
             "peso_ifix": 0.23,
-            "preco": 93.46,
+            "preco": 94.83,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6488,7 +6506,7 @@
             "isin": "BRMANACTF006",
             "nome": "FII MANATI",
             "peso_ifix": 0.219,
-            "preco": 9.25,
+            "preco": 9.21,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6569,7 +6587,7 @@
             "isin": "BRCYCRCTF004",
             "nome": "FII CYRELA",
             "peso_ifix": 0.203,
-            "preco": 8.79,
+            "preco": 8.76,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6650,7 +6668,7 @@
             "isin": "BRPORDCTF005",
             "nome": "FII POLO CRI",
             "peso_ifix": 0.203,
-            "preco": 8.56,
+            "preco": 8.61,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6731,7 +6749,7 @@
             "isin": "BRKCRECTF009",
             "nome": "FII KINEA CR",
             "peso_ifix": 0.202,
-            "preco": 8.84,
+            "preco": 9.15,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6812,7 +6830,7 @@
             "isin": "BRTOPPCTF013",
             "nome": "FII TOPP PAX",
             "peso_ifix": 0.197,
-            "preco": 70,
+            "preco": 69.52,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6893,7 +6911,7 @@
             "isin": "BRHCTRCTF003",
             "nome": "FII HECTARE",
             "peso_ifix": 0.189,
-            "preco": 13.13,
+            "preco": 13.14,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6974,7 +6992,7 @@
             "isin": "BRSNFFCTF001",
             "nome": "FII SUNOFOFI",
             "peso_ifix": 0.187,
-            "preco": 73.21,
+            "preco": 73.65,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7055,7 +7073,7 @@
             "isin": "BRLIFECTF017",
             "nome": "FII LIFE",
             "peso_ifix": 0.179,
-            "preco": 7.23,
+            "preco": 7.38,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7136,7 +7154,7 @@
             "isin": "BRXPSFCTF009",
             "nome": "FII XP SELEC",
             "peso_ifix": 0.178,
-            "preco": 6.57,
+            "preco": 6.62,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7217,7 +7235,7 @@
             "isin": "BRWHGRCTF008",
             "nome": "FII WHG REAL",
             "peso_ifix": 0.174,
-            "preco": 8.81,
+            "preco": 8.82,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7298,7 +7316,7 @@
             "isin": "BRRPRICTF007",
             "nome": "FII RBR PR",
             "peso_ifix": 0.168,
-            "preco": 77.13,
+            "preco": 78,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7373,7 +7391,7 @@
             "isin": "BRMFIICTF008",
             "nome": "FII MERITO I",
             "peso_ifix": 0.16,
-            "preco": 37.87,
+            "preco": 37.6,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7454,7 +7472,7 @@
             "isin": "BRDEVACTF000",
             "nome": "FII DEVANT",
             "peso_ifix": 0.159,
-            "preco": 17.68,
+            "preco": 17.7,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7535,7 +7553,7 @@
             "isin": "BRURPRCTF002",
             "nome": "FII URCA REN",
             "peso_ifix": 0.155,
-            "preco": 21.12,
+            "preco": 21.1,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7616,7 +7634,7 @@
             "isin": "BROUJPCTF006",
             "nome": "FII OURI JPP",
             "peso_ifix": 0.144,
-            "preco": 69.96,
+            "preco": 69.75,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7697,7 +7715,7 @@
             "isin": "BRVGRICTF008",
             "nome": "FII VGRI",
             "peso_ifix": 0.133,
-            "preco": 6,
+            "preco": 6.02,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7778,7 +7796,7 @@
             "isin": "BRHSAFCTF004",
             "nome": "FII HSI CRI",
             "peso_ifix": 0.125,
-            "preco": 77.43,
+            "preco": 78.38,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7859,7 +7877,7 @@
             "isin": "BRSPXSCTF002",
             "nome": "FII SPX SYN",
             "peso_ifix": 0.099,
-            "preco": 7.8,
+            "preco": 7.97,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7940,7 +7958,7 @@
             "isin": "BRCACRCTF004",
             "nome": "CARTESIA FII",
             "peso_ifix": 0.045,
-            "preco": 15,
+            "preco": 15.15,
             "proventos": [
                 {
                     "tipo": "rendimento",
