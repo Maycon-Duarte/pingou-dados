@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "atualizado_em": "2026-10-17T23:21:29Z",
+    "atualizado_em": "2026-10-18T13:48:23Z",
     "fonte": "B3",
     "fundos": [
         {
@@ -334,6 +334,12 @@
             "peso_ifix": 4.31,
             "preco": 106.07,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-16",
+                    "pagamento": "2026-10-23",
+                    "valor": 0.92
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-18",
@@ -2035,6 +2041,12 @@
             "peso_ifix": 1.084,
             "preco": 10.41,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-16",
+                    "pagamento": "2026-10-23",
+                    "valor": 0.084
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-18",
@@ -4062,6 +4074,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-16",
+                    "pagamento": "2026-10-23",
+                    "valor": 0.1
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-16",
                     "pagamento": "2026-09-23",
                     "valor": 0.1
@@ -4795,6 +4813,12 @@
             "peso_ifix": 0.428,
             "preco": 91.13,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-16",
+                    "pagamento": "2026-10-23",
+                    "valor": 0.92
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-18",
