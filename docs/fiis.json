@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "atualizado_em": "2026-10-24T23:35:21Z",
+    "atualizado_em": "2026-10-25T14:08:21Z",
     "fonte": "B3",
     "fundos": [
         {
@@ -4465,6 +4465,12 @@
             "peso_ifix": 0.549,
             "preco": 40.26,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-23",
+                    "pagamento": "2026-10-30",
+                    "valor": 0.36
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-23",
