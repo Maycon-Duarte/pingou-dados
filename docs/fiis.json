@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "atualizado_em": "2026-11-02T01:00:12Z",
+    "atualizado_em": "2026-11-02T19:59:54Z",
     "fonte": "B3",
     "fundos": [
         {
@@ -10,6 +10,12 @@
             "peso_ifix": 9.478,
             "preco": 104.91,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 1.1
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -174,6 +180,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.71
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-14",
                     "valor": 0.6
@@ -253,6 +265,12 @@
             "peso_ifix": 4.694,
             "preco": 149.47,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 1.17
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -417,6 +435,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.095
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.1
@@ -496,6 +520,12 @@
             "peso_ifix": 3.223,
             "preco": 91.15,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.82
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -579,6 +609,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 1.1
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 1.1
@@ -658,6 +694,12 @@
             "peso_ifix": 2.839,
             "preco": 66.65,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.93
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -822,6 +864,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.86
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-14",
                     "valor": 0.7
@@ -901,6 +949,12 @@
             "peso_ifix": 1.968,
             "preco": 99.4,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.84
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -984,6 +1038,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.95
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.95
@@ -1063,6 +1123,12 @@
             "peso_ifix": 1.792,
             "preco": 18.11,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.17
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -1227,6 +1293,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-12",
+                    "valor": 1.06
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-13",
                     "valor": 1.15
@@ -1308,6 +1380,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.083
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-07",
                     "valor": 0.083
@@ -1387,6 +1465,12 @@
             "peso_ifix": 1.491,
             "preco": 8.78,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.08
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -1551,6 +1635,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.91
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.91
@@ -1711,6 +1801,12 @@
             "peso_ifix": 1.215,
             "preco": 90,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-12",
+                    "valor": 1
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -1875,6 +1971,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.75
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-07",
                     "valor": 0.75
@@ -1954,6 +2056,12 @@
             "peso_ifix": 1.142,
             "preco": 61,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.37
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -2118,6 +2226,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.8
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-07",
                     "valor": 0.8
@@ -2280,6 +2394,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 1
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 1
@@ -2359,6 +2479,12 @@
             "peso_ifix": 0.962,
             "preco": 6.15,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.06
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -2442,6 +2568,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 1
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 1
@@ -2521,6 +2653,12 @@
             "peso_ifix": 0.941,
             "preco": 73,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.85
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -2604,6 +2742,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.85
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.85
@@ -2683,6 +2827,12 @@
             "peso_ifix": 0.924,
             "preco": 89.76,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.82
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -2766,6 +2916,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.09
@@ -2845,6 +3001,12 @@
             "peso_ifix": 0.918,
             "preco": 84.1,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 1.05
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -3007,6 +3169,12 @@
             "peso_ifix": 0.833,
             "preco": 58.54,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.5
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -3333,6 +3501,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.85
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.85
@@ -3657,6 +3831,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.82
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-14",
                     "valor": 0.75
@@ -3736,6 +3916,12 @@
             "peso_ifix": 0.652,
             "preco": 39.53,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.46
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -3819,6 +4005,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.9
@@ -3898,6 +4090,12 @@
             "peso_ifix": 0.625,
             "preco": 71.8,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.65
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -4386,6 +4584,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.05
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-07",
                     "valor": 0.06
@@ -4558,6 +4762,12 @@
             "peso_ifix": 0.459,
             "preco": 76.18,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.82
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -4803,6 +5013,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.6
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.6
@@ -4965,6 +5181,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.08
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.08
@@ -5044,6 +5266,12 @@
             "peso_ifix": 0.353,
             "preco": 63.49,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-12",
+                    "valor": 0.92
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -5127,6 +5355,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.04
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.03
@@ -5206,6 +5440,12 @@
             "peso_ifix": 0.348,
             "preco": 72.4,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.8
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -5451,6 +5691,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 1.3
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 1.3
@@ -5530,6 +5776,12 @@
             "peso_ifix": 0.326,
             "preco": 70.2,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.6
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -5613,6 +5865,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-12",
+                    "valor": 0.75
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-13",
                     "valor": 0.8
@@ -5694,6 +5952,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 1.2
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-07",
                     "valor": 1.2
@@ -5773,6 +6037,12 @@
             "peso_ifix": 0.255,
             "preco": 6.93,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.068
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -5937,6 +6207,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.44
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.44
@@ -6097,6 +6373,12 @@
             "peso_ifix": 0.235,
             "preco": 4.14,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.046
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -6261,6 +6543,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-24",
+                    "valor": 0.11
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-22",
                     "valor": 0.12
@@ -6340,6 +6628,12 @@
             "peso_ifix": 0.227,
             "preco": 85.78,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-12",
+                    "valor": 1.05
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -6423,6 +6717,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.7
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.74
@@ -6502,6 +6802,12 @@
             "peso_ifix": 0.211,
             "preco": 8.25,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.0935
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -6585,6 +6891,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.106
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.106
@@ -6666,6 +6978,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.07
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-14",
                     "valor": 0.07
@@ -6745,6 +7063,12 @@
             "peso_ifix": 0.191,
             "preco": 7.05,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.115
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -6990,6 +7314,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.07
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.07
@@ -7071,6 +7401,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.1
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.1
@@ -7150,6 +7486,12 @@
             "peso_ifix": 0.166,
             "preco": 70.11,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.9
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -7308,6 +7650,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 1.5
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-13",
                     "valor": 1.2
@@ -7387,6 +7735,12 @@
             "peso_ifix": 0.144,
             "preco": 30.88,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.3
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
@@ -7470,6 +7824,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.3
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
                     "valor": 0.3
@@ -7551,6 +7911,12 @@
             "proventos": [
                 {
                     "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.075
+                },
+                {
+                    "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-07",
                     "valor": 0.075
@@ -7630,6 +7996,12 @@
             "peso_ifix": 0.126,
             "preco": 73,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.95
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
