@@ -1,14 +1,14 @@
 {
     "versao": 1,
-    "atualizado_em": "2026-11-17T18:58:11Z",
+    "atualizado_em": "2026-11-18T18:41:08Z",
     "fonte": "B3",
     "fundos": [
         {
             "ticker": "KNCR11",
             "isin": "BRKNCRCTF000",
             "nome": "FII KINEA RI",
-            "peso_ifix": 9.851,
-            "preco": 103.4,
+            "peso_ifix": 9.908,
+            "preco": 102.83,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -85,92 +85,11 @@
             ]
         },
         {
-            "ticker": "BTLG11",
-            "isin": "BRBTLGCTF000",
-            "nome": "FII BTLG",
-            "peso_ifix": 5.016,
-            "preco": 97.01,
-            "proventos": [
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-11-13",
-                    "pagamento": "2026-11-25",
-                    "valor": 0.81
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-10-15",
-                    "pagamento": "2026-10-23",
-                    "valor": 0.81
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-09-15",
-                    "pagamento": "2026-09-25",
-                    "valor": 0.81
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-08-14",
-                    "pagamento": "2026-08-25",
-                    "valor": 0.81
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-07-15",
-                    "pagamento": "2026-07-24",
-                    "valor": 0.81
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-06-15",
-                    "pagamento": "2026-06-25",
-                    "valor": 0.81
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-05-15",
-                    "pagamento": "2026-05-25",
-                    "valor": 0.81
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-04-15",
-                    "pagamento": "2026-04-24",
-                    "valor": 0.81
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-03-13",
-                    "pagamento": "2026-03-25",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-02-13",
-                    "pagamento": "2026-02-25",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-01-15",
-                    "pagamento": "2026-01-23",
-                    "valor": 0.79
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-12-15",
-                    "pagamento": "2025-12-23",
-                    "valor": 0.79
-                }
-            ]
-        },
-        {
             "ticker": "KNIP11",
             "isin": "BRKNIPCTF001",
             "nome": "FII KINEA IP",
-            "peso_ifix": 5.001,
-            "preco": 87.34,
+            "peso_ifix": 5.088,
+            "preco": 86.72,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -247,11 +166,92 @@
             ]
         },
         {
+            "ticker": "BTLG11",
+            "isin": "BRBTLGCTF000",
+            "nome": "FII BTLG",
+            "peso_ifix": 5.009,
+            "preco": 95.75,
+            "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-11-13",
+                    "pagamento": "2026-11-25",
+                    "valor": 0.81
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-15",
+                    "pagamento": "2026-10-23",
+                    "valor": 0.81
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-09-15",
+                    "pagamento": "2026-09-25",
+                    "valor": 0.81
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-08-14",
+                    "pagamento": "2026-08-25",
+                    "valor": 0.81
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-07-15",
+                    "pagamento": "2026-07-24",
+                    "valor": 0.81
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-06-15",
+                    "pagamento": "2026-06-25",
+                    "valor": 0.81
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-05-15",
+                    "pagamento": "2026-05-25",
+                    "valor": 0.81
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-04-15",
+                    "pagamento": "2026-04-24",
+                    "valor": 0.81
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-03-13",
+                    "pagamento": "2026-03-25",
+                    "valor": 0.8
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-02-13",
+                    "pagamento": "2026-02-25",
+                    "valor": 0.8
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-01-15",
+                    "pagamento": "2026-01-23",
+                    "valor": 0.79
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-12-15",
+                    "pagamento": "2025-12-23",
+                    "valor": 0.79
+                }
+            ]
+        },
+        {
             "ticker": "HGLG11",
             "isin": "BRHGLGCTF004",
             "nome": "FII HGLG PAX",
             "peso_ifix": 4.747,
-            "preco": 143.29,
+            "preco": 142.36,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -331,9 +331,15 @@
             "ticker": "XPML11",
             "isin": "BRXPMLCTF000",
             "nome": "FII XP MALLS",
-            "peso_ifix": 4.196,
-            "preco": 88.98,
+            "peso_ifix": 4.088,
+            "preco": 85.25,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-11-17",
+                    "pagamento": "2026-11-25",
+                    "valor": 0.8
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-10-16",
@@ -399,12 +405,6 @@
                     "data_com": "2025-12-16",
                     "pagamento": "2025-12-23",
                     "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-11-17",
-                    "pagamento": "2025-11-25",
-                    "valor": 0.92
                 }
             ]
         },
@@ -412,8 +412,8 @@
             "ticker": "MXRF11",
             "isin": "BRMXRFCTF008",
             "nome": "FII MAXI REN",
-            "peso_ifix": 3.54,
-            "preco": 8.66,
+            "peso_ifix": 3.568,
+            "preco": 8.6,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -493,8 +493,8 @@
             "ticker": "XPLG11",
             "isin": "BRXPLGCTF002",
             "nome": "FII XP LOG",
-            "peso_ifix": 3.305,
-            "preco": 89.58,
+            "peso_ifix": 3.315,
+            "preco": 87.5,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -574,8 +574,8 @@
             "ticker": "KNRI11",
             "isin": "BRKNRICTF007",
             "nome": "FII KINEA",
-            "peso_ifix": 3.026,
-            "preco": 147.6,
+            "peso_ifix": 3.02,
+            "preco": 145.56,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -655,8 +655,8 @@
             "ticker": "TRXF11",
             "isin": "BRTRXFCTF003",
             "nome": "FII TRX REAL",
-            "peso_ifix": 2.488,
-            "preco": 54.58,
+            "peso_ifix": 2.463,
+            "preco": 53.93,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -736,8 +736,8 @@
             "ticker": "GGRC11",
             "isin": "BRGGRCCTF002",
             "nome": "FII GGR ZAG",
-            "peso_ifix": 2.064,
-            "preco": 8.23,
+            "peso_ifix": 2.076,
+            "preco": 8.11,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -817,8 +817,8 @@
             "ticker": "HGRU11",
             "isin": "BRHGRUCTF002",
             "nome": "FII HGRU PAX",
-            "peso_ifix": 2.057,
-            "preco": 113.91,
+            "peso_ifix": 2.061,
+            "preco": 113.18,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -898,8 +898,8 @@
             "ticker": "KNHY11",
             "isin": "BRKNHYCTF005",
             "nome": "FII KINEA HY",
-            "peso_ifix": 2.042,
-            "preco": 89.75,
+            "peso_ifix": 2.04,
+            "preco": 90.62,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -979,8 +979,8 @@
             "ticker": "VISC11",
             "isin": "BRVISCCTF005",
             "nome": "FII VINCI SC",
-            "peso_ifix": 2.035,
-            "preco": 96.44,
+            "peso_ifix": 2.023,
+            "preco": 95.34,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1060,8 +1060,8 @@
             "ticker": "HGBS11",
             "isin": "BRHGBSCTF000",
             "nome": "FII HEDGEBS",
-            "peso_ifix": 1.84,
-            "preco": 17.58,
+            "peso_ifix": 1.827,
+            "preco": 17.23,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1141,8 +1141,8 @@
             "ticker": "CPTS11",
             "isin": "BRCPTSCTF004",
             "nome": "FII CAPI SEC",
-            "peso_ifix": 1.767,
-            "preco": 6.68,
+            "peso_ifix": 1.757,
+            "preco": 6.56,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1222,8 +1222,8 @@
             "ticker": "KNUQ11",
             "isin": "BRKNUQCTF004",
             "nome": "FII KINEA UN",
-            "peso_ifix": 1.743,
-            "preco": 96.15,
+            "peso_ifix": 1.744,
+            "preco": 95.22,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1303,8 +1303,8 @@
             "ticker": "GARE11",
             "isin": "BRGARECTF001",
             "nome": "FII GUARDIAN",
-            "peso_ifix": 1.704,
-            "preco": 8.08,
+            "peso_ifix": 1.703,
+            "preco": 7.98,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1384,8 +1384,8 @@
             "ticker": "KNSC11",
             "isin": "BRKNSCCTF008",
             "nome": "FII KINEA SC",
-            "peso_ifix": 1.526,
-            "preco": 8.43,
+            "peso_ifix": 1.523,
+            "preco": 8.29,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1465,8 +1465,8 @@
             "ticker": "IRIM11",
             "isin": "BRIRIMCTF003",
             "nome": "FII IRIM",
-            "peso_ifix": 1.466,
-            "preco": 57.03,
+            "peso_ifix": 1.464,
+            "preco": 56.83,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1546,8 +1546,8 @@
             "ticker": "BRCO11",
             "isin": "BRBRCOCTF007",
             "nome": "FII BRESCO",
-            "peso_ifix": 1.376,
-            "preco": 105.43,
+            "peso_ifix": 1.383,
+            "preco": 104.27,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1627,8 +1627,8 @@
             "ticker": "RECR11",
             "isin": "BRRECRCTF004",
             "nome": "FII REC RECE",
-            "peso_ifix": 1.308,
-            "preco": 67.77,
+            "peso_ifix": 1.302,
+            "preco": 66.54,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1708,8 +1708,8 @@
             "ticker": "KNHF11",
             "isin": "BRKNHFCTF004",
             "nome": "FII KINEA HF",
-            "peso_ifix": 1.24,
-            "preco": 86.38,
+            "peso_ifix": 1.237,
+            "preco": 85.21,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1786,92 +1786,11 @@
             ]
         },
         {
-            "ticker": "PVBI11",
-            "isin": "BRPVBICTF003",
-            "nome": "FII PVBI VBI",
-            "peso_ifix": 1.206,
-            "preco": 60.14,
-            "proventos": [
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-10-30",
-                    "pagamento": "2026-11-09",
-                    "valor": 0.37
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-09-30",
-                    "pagamento": "2026-10-07",
-                    "valor": 0.37
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-08-31",
-                    "pagamento": "2026-09-08",
-                    "valor": 0.37
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-07-31",
-                    "pagamento": "2026-08-07",
-                    "valor": 0.4
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-06-30",
-                    "pagamento": "2026-07-07",
-                    "valor": 0.4
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-05-29",
-                    "pagamento": "2026-06-08",
-                    "valor": 0.4
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-04-30",
-                    "pagamento": "2026-05-08",
-                    "valor": 0.4
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-03-31",
-                    "pagamento": "2026-04-08",
-                    "valor": 0.4
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-02-27",
-                    "pagamento": "2026-03-06",
-                    "valor": 0.45
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-01-30",
-                    "pagamento": "2026-02-06",
-                    "valor": 0.45
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-12-30",
-                    "pagamento": "2026-01-08",
-                    "valor": 0.45
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-11-28",
-                    "pagamento": "2025-12-05",
-                    "valor": 0.45
-                }
-            ]
-        },
-        {
             "ticker": "BTHF11",
             "isin": "BRBTHFCTF000",
             "nome": "FII BTHF",
-            "peso_ifix": 1.199,
-            "preco": 8,
+            "peso_ifix": 1.206,
+            "preco": 7.96,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -1951,8 +1870,8 @@
             "ticker": "HSML11",
             "isin": "BRHSMLCTF007",
             "nome": "FII HSI MALL",
-            "peso_ifix": 1.179,
-            "preco": 76.11,
+            "peso_ifix": 1.195,
+            "preco": 76.28,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2029,83 +1948,83 @@
             ]
         },
         {
-            "ticker": "ALZR11",
-            "isin": "BRALZRCTF006",
-            "nome": "FII ALIANZA",
-            "peso_ifix": 1.149,
-            "preco": 9.56,
+            "ticker": "PVBI11",
+            "isin": "BRPVBICTF003",
+            "nome": "FII PVBI VBI",
+            "peso_ifix": 1.171,
+            "preco": 59.41,
             "proventos": [
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-10-16",
-                    "pagamento": "2026-10-23",
-                    "valor": 0.084
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.37
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-09-18",
-                    "pagamento": "2026-09-25",
-                    "valor": 0.084
+                    "data_com": "2026-09-30",
+                    "pagamento": "2026-10-07",
+                    "valor": 0.37
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-08-18",
-                    "pagamento": "2026-08-25",
-                    "valor": 0.084
+                    "data_com": "2026-08-31",
+                    "pagamento": "2026-09-08",
+                    "valor": 0.37
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-07-17",
-                    "pagamento": "2026-07-24",
-                    "valor": 0.08355
+                    "data_com": "2026-07-31",
+                    "pagamento": "2026-08-07",
+                    "valor": 0.4
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-06-18",
-                    "pagamento": "2026-06-25",
-                    "valor": 0.08355
+                    "data_com": "2026-06-30",
+                    "pagamento": "2026-07-07",
+                    "valor": 0.4
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-05-18",
-                    "pagamento": "2026-05-25",
-                    "valor": 0.08355
+                    "data_com": "2026-05-29",
+                    "pagamento": "2026-06-08",
+                    "valor": 0.4
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-04-16",
-                    "pagamento": "2026-04-24",
-                    "valor": 0.08355
+                    "data_com": "2026-04-30",
+                    "pagamento": "2026-05-08",
+                    "valor": 0.4
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-03-18",
-                    "pagamento": "2026-03-25",
-                    "valor": 0.08355
+                    "data_com": "2026-03-31",
+                    "pagamento": "2026-04-08",
+                    "valor": 0.4
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-02-18",
-                    "pagamento": "2026-02-25",
-                    "valor": 0.08355
+                    "data_com": "2026-02-27",
+                    "pagamento": "2026-03-06",
+                    "valor": 0.45
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-01-16",
-                    "pagamento": "2026-01-23",
-                    "valor": 0.0851
+                    "data_com": "2026-01-30",
+                    "pagamento": "2026-02-06",
+                    "valor": 0.45
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2025-12-16",
-                    "pagamento": "2025-12-23",
-                    "valor": 0.08355
+                    "data_com": "2025-12-30",
+                    "pagamento": "2026-01-08",
+                    "valor": 0.45
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2025-11-17",
-                    "pagamento": "2025-11-25",
-                    "valor": 0.08355
+                    "data_com": "2025-11-28",
+                    "pagamento": "2025-12-05",
+                    "valor": 0.45
                 }
             ]
         },
@@ -2113,8 +2032,8 @@
             "ticker": "LVBI11",
             "isin": "BRLVBICTF002",
             "nome": "FII LVBI VBI",
-            "peso_ifix": 1.149,
-            "preco": 98.51,
+            "peso_ifix": 1.152,
+            "preco": 97.8,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2191,11 +2110,92 @@
             ]
         },
         {
+            "ticker": "ALZR11",
+            "isin": "BRALZRCTF006",
+            "nome": "FII ALIANZA",
+            "peso_ifix": 1.137,
+            "preco": 9.38,
+            "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-11-17",
+                    "pagamento": "2026-11-25",
+                    "valor": 0.085
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-16",
+                    "pagamento": "2026-10-23",
+                    "valor": 0.084
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-09-18",
+                    "pagamento": "2026-09-25",
+                    "valor": 0.084
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-08-18",
+                    "pagamento": "2026-08-25",
+                    "valor": 0.084
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-07-17",
+                    "pagamento": "2026-07-24",
+                    "valor": 0.08355
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-06-18",
+                    "pagamento": "2026-06-25",
+                    "valor": 0.08355
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-05-18",
+                    "pagamento": "2026-05-25",
+                    "valor": 0.08355
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-04-16",
+                    "pagamento": "2026-04-24",
+                    "valor": 0.08355
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-03-18",
+                    "pagamento": "2026-03-25",
+                    "valor": 0.08355
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-02-18",
+                    "pagamento": "2026-02-25",
+                    "valor": 0.08355
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-01-16",
+                    "pagamento": "2026-01-23",
+                    "valor": 0.0851
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-12-16",
+                    "pagamento": "2025-12-23",
+                    "valor": 0.08355
+                }
+            ]
+        },
+        {
             "ticker": "MCCI11",
             "isin": "BRMCCICTF008",
             "nome": "FII MAUA",
-            "peso_ifix": 1.064,
-            "preco": 86.57,
+            "peso_ifix": 1.068,
+            "preco": 86.38,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2275,8 +2275,8 @@
             "ticker": "PMLL11",
             "isin": "BRPMLLCTF005",
             "nome": "FII PMLL PAX",
-            "peso_ifix": 1,
-            "preco": 98.09,
+            "peso_ifix": 1.002,
+            "preco": 97.84,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2356,8 +2356,8 @@
             "ticker": "HGCR11",
             "isin": "BRHGCRCTF000",
             "nome": "FII HGCR PAX",
-            "peso_ifix": 0.968,
-            "preco": 85.66,
+            "peso_ifix": 0.965,
+            "preco": 84.73,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2430,87 +2430,6 @@
                     "data_com": "2025-11-28",
                     "pagamento": "2025-12-12",
                     "valor": 1
-                }
-            ]
-        },
-        {
-            "ticker": "HGRE11",
-            "isin": "BRHGRECTF006",
-            "nome": "FII HGRE PAX",
-            "peso_ifix": 0.963,
-            "preco": 111.81,
-            "proventos": [
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-10-30",
-                    "pagamento": "2026-11-16",
-                    "valor": 0.85
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-09-30",
-                    "pagamento": "2026-10-15",
-                    "valor": 0.85
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-08-31",
-                    "pagamento": "2026-09-15",
-                    "valor": 0.85
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-07-31",
-                    "pagamento": "2026-08-14",
-                    "valor": 0.85
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-06-30",
-                    "pagamento": "2026-07-14",
-                    "valor": 1.5
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-05-29",
-                    "pagamento": "2026-06-15",
-                    "valor": 0.85
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-04-30",
-                    "pagamento": "2026-05-15",
-                    "valor": 0.85
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-03-31",
-                    "pagamento": "2026-04-15",
-                    "valor": 0.85
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-02-27",
-                    "pagamento": "2026-03-13",
-                    "valor": 0.85
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-01-30",
-                    "pagamento": "2026-02-13",
-                    "valor": 0.85
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-12-30",
-                    "pagamento": "2026-01-15",
-                    "valor": 1.5
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-11-28",
-                    "pagamento": "2025-12-12",
-                    "valor": 0.85
                 }
             ]
         },
@@ -2518,8 +2437,8 @@
             "ticker": "VILG11",
             "isin": "BRVILGCTF001",
             "nome": "FII VINCI LG",
-            "peso_ifix": 0.952,
-            "preco": 87.81,
+            "peso_ifix": 0.963,
+            "preco": 87.88,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2596,83 +2515,83 @@
             ]
         },
         {
-            "ticker": "RBVA11",
-            "isin": "BRRBVACTF006",
-            "nome": "FII RIOB VA",
-            "peso_ifix": 0.948,
-            "preco": 7.76,
+            "ticker": "HGRE11",
+            "isin": "BRHGRECTF006",
+            "nome": "FII HGRE PAX",
+            "peso_ifix": 0.96,
+            "preco": 110.53,
             "proventos": [
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-10-30",
-                    "pagamento": "2026-11-13",
-                    "valor": 0.09
+                    "pagamento": "2026-11-16",
+                    "valor": 0.85
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-09-30",
                     "pagamento": "2026-10-15",
-                    "valor": 0.09
+                    "valor": 0.85
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-08-31",
                     "pagamento": "2026-09-15",
-                    "valor": 0.09
+                    "valor": 0.85
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-07-31",
                     "pagamento": "2026-08-14",
-                    "valor": 0.09
+                    "valor": 0.85
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-06-30",
-                    "pagamento": "2026-07-15",
-                    "valor": 0.09
+                    "pagamento": "2026-07-14",
+                    "valor": 1.5
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-05-29",
                     "pagamento": "2026-06-15",
-                    "valor": 0.09
+                    "valor": 0.85
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-04-30",
                     "pagamento": "2026-05-15",
-                    "valor": 0.09
+                    "valor": 0.85
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-03-31",
                     "pagamento": "2026-04-15",
-                    "valor": 0.09
+                    "valor": 0.85
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-02-27",
                     "pagamento": "2026-03-13",
-                    "valor": 0.09
+                    "valor": 0.85
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-01-30",
                     "pagamento": "2026-02-13",
-                    "valor": 0.09
+                    "valor": 0.85
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2025-12-30",
                     "pagamento": "2026-01-15",
-                    "valor": 0.09
+                    "valor": 1.5
                 },
                 {
                     "tipo": "rendimento",
                     "data_com": "2025-11-28",
-                    "pagamento": "2025-12-15",
-                    "valor": 0.09
+                    "pagamento": "2025-12-12",
+                    "valor": 0.85
                 }
             ]
         },
@@ -2681,7 +2600,7 @@
             "isin": "BRTVRICTF001",
             "nome": "FII TIVIO RI",
             "peso_ifix": 0.94,
-            "preco": 81.05,
+            "preco": 81.16,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2758,11 +2677,92 @@
             ]
         },
         {
+            "ticker": "RBVA11",
+            "isin": "BRRBVACTF006",
+            "nome": "FII RIOB VA",
+            "peso_ifix": 0.932,
+            "preco": 7.55,
+            "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-13",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-09-30",
+                    "pagamento": "2026-10-15",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-08-31",
+                    "pagamento": "2026-09-15",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-07-31",
+                    "pagamento": "2026-08-14",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-06-30",
+                    "pagamento": "2026-07-15",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-05-29",
+                    "pagamento": "2026-06-15",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-04-30",
+                    "pagamento": "2026-05-15",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-03-31",
+                    "pagamento": "2026-04-15",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-02-27",
+                    "pagamento": "2026-03-13",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-01-30",
+                    "pagamento": "2026-02-13",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-12-30",
+                    "pagamento": "2026-01-15",
+                    "valor": 0.09
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-11-28",
+                    "pagamento": "2025-12-15",
+                    "valor": 0.09
+                }
+            ]
+        },
+        {
             "ticker": "HFOF11",
             "isin": "BRHFOFCTF002",
             "nome": "FII HTOPFOF3",
-            "peso_ifix": 0.915,
-            "preco": 5.55,
+            "peso_ifix": 0.922,
+            "preco": 5.51,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2842,8 +2842,8 @@
             "ticker": "RZTR11",
             "isin": "BRRZTRCTF003",
             "nome": "FII RIZA TX",
-            "peso_ifix": 0.881,
-            "preco": 64.44,
+            "peso_ifix": 0.891,
+            "preco": 64.17,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -2920,92 +2920,11 @@
             ]
         },
         {
-            "ticker": "VGIR11",
-            "isin": "BRVGIRCTF008",
-            "nome": "FII VALREIII",
-            "peso_ifix": 0.865,
-            "preco": 8.02,
-            "proventos": [
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-11-12",
-                    "pagamento": "2026-11-19",
-                    "valor": 0.119
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-10-13",
-                    "pagamento": "2026-10-20",
-                    "valor": 0.13
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-09-11",
-                    "pagamento": "2026-09-18",
-                    "valor": 0.13
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-08-12",
-                    "pagamento": "2026-08-19",
-                    "valor": 0.13
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-07-10",
-                    "pagamento": "2026-07-17",
-                    "valor": 0.11
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-06-11",
-                    "pagamento": "2026-06-18",
-                    "valor": 0.12
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-05-13",
-                    "pagamento": "2026-05-20",
-                    "valor": 0.12
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-04-13",
-                    "pagamento": "2026-04-20",
-                    "valor": 0.13
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-03-11",
-                    "pagamento": "2026-03-18",
-                    "valor": 0.12
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-02-11",
-                    "pagamento": "2026-02-20",
-                    "valor": 0.13
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-01-13",
-                    "pagamento": "2026-01-20",
-                    "valor": 0.13
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-12-10",
-                    "pagamento": "2025-12-17",
-                    "valor": 0.13
-                }
-            ]
-        },
-        {
             "ticker": "JSRE11",
             "isin": "BRJSRECTF007",
             "nome": "FII JS REAL",
-            "peso_ifix": 0.861,
-            "preco": 57.13,
+            "peso_ifix": 0.866,
+            "preco": 56.7,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3082,11 +3001,92 @@
             ]
         },
         {
+            "ticker": "VGIR11",
+            "isin": "BRVGIRCTF008",
+            "nome": "FII VALREIII",
+            "peso_ifix": 0.862,
+            "preco": 7.84,
+            "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-11-12",
+                    "pagamento": "2026-11-19",
+                    "valor": 0.119
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-13",
+                    "pagamento": "2026-10-20",
+                    "valor": 0.13
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-09-11",
+                    "pagamento": "2026-09-18",
+                    "valor": 0.13
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-08-12",
+                    "pagamento": "2026-08-19",
+                    "valor": 0.13
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-07-10",
+                    "pagamento": "2026-07-17",
+                    "valor": 0.11
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-06-11",
+                    "pagamento": "2026-06-18",
+                    "valor": 0.12
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-05-13",
+                    "pagamento": "2026-05-20",
+                    "valor": 0.12
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-04-13",
+                    "pagamento": "2026-04-20",
+                    "valor": 0.13
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-03-11",
+                    "pagamento": "2026-03-18",
+                    "valor": 0.12
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-02-11",
+                    "pagamento": "2026-02-20",
+                    "valor": 0.13
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-01-13",
+                    "pagamento": "2026-01-20",
+                    "valor": 0.13
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-12-10",
+                    "pagamento": "2025-12-17",
+                    "valor": 0.13
+                }
+            ]
+        },
+        {
             "ticker": "PCIP11",
             "isin": "BRPCIPCTF003",
             "nome": "FII PCIP PAX",
-            "peso_ifix": 0.824,
-            "preco": 67.37,
+            "peso_ifix": 0.84,
+            "preco": 67.71,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3166,8 +3166,8 @@
             "ticker": "CPSH11",
             "isin": "BRCPSHCTF017",
             "nome": "FII CPSH",
-            "peso_ifix": 0.806,
-            "preco": 9.09,
+            "peso_ifix": 0.819,
+            "preco": 9.04,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3253,8 +3253,8 @@
             "ticker": "BRCR11",
             "isin": "BRBRCRCTF000",
             "nome": "FII BC FUND",
-            "peso_ifix": 0.756,
-            "preco": 39.16,
+            "peso_ifix": 0.76,
+            "preco": 38.7,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3334,8 +3334,8 @@
             "ticker": "VRTA11",
             "isin": "BRVRTACTF008",
             "nome": "FII FATOR VE",
-            "peso_ifix": 0.748,
-            "preco": 66.08,
+            "peso_ifix": 0.749,
+            "preco": 64.36,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3415,8 +3415,8 @@
             "ticker": "RBRY11",
             "isin": "BRRBRYCTF004",
             "nome": "FII RBRY PAX",
-            "peso_ifix": 0.698,
-            "preco": 74.38,
+            "peso_ifix": 0.69,
+            "preco": 73.09,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3496,8 +3496,8 @@
             "ticker": "RBRX11",
             "isin": "BRRBRXCTF006",
             "nome": "FII RBRX PAX",
-            "peso_ifix": 0.68,
-            "preco": 6.4,
+            "peso_ifix": 0.681,
+            "preco": 6.17,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3574,92 +3574,11 @@
             ]
         },
         {
-            "ticker": "GTWR11",
-            "isin": "BRGTWRCTF003",
-            "nome": "FII G TOWERS",
-            "peso_ifix": 0.655,
-            "preco": 74.68,
-            "proventos": [
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-10-30",
-                    "pagamento": "2026-11-16",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-09-30",
-                    "pagamento": "2026-10-15",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-08-31",
-                    "pagamento": "2026-09-15",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-07-31",
-                    "pagamento": "2026-08-14",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-06-30",
-                    "pagamento": "2026-07-14",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-05-29",
-                    "pagamento": "2026-06-15",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-04-30",
-                    "pagamento": "2026-05-15",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-03-31",
-                    "pagamento": "2026-04-15",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-02-27",
-                    "pagamento": "2026-03-13",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-01-30",
-                    "pagamento": "2026-02-13",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-12-30",
-                    "pagamento": "2026-01-15",
-                    "valor": 0.9
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-11-28",
-                    "pagamento": "2025-12-12",
-                    "valor": 0.9
-                }
-            ]
-        },
-        {
             "ticker": "HSLG11",
             "isin": "BRHSLGCTF009",
             "nome": "FII HSI LOG",
-            "peso_ifix": 0.642,
-            "preco": 71.16,
+            "peso_ifix": 0.662,
+            "preco": 71.09,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3736,11 +3655,92 @@
             ]
         },
         {
+            "ticker": "GTWR11",
+            "isin": "BRGTWRCTF003",
+            "nome": "FII G TOWERS",
+            "peso_ifix": 0.654,
+            "preco": 74.53,
+            "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-09-30",
+                    "pagamento": "2026-10-15",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-08-31",
+                    "pagamento": "2026-09-15",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-07-31",
+                    "pagamento": "2026-08-14",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-06-30",
+                    "pagamento": "2026-07-14",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-05-29",
+                    "pagamento": "2026-06-15",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-04-30",
+                    "pagamento": "2026-05-15",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-03-31",
+                    "pagamento": "2026-04-15",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-02-27",
+                    "pagamento": "2026-03-13",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-01-30",
+                    "pagamento": "2026-02-13",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-12-30",
+                    "pagamento": "2026-01-15",
+                    "valor": 0.9
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-11-28",
+                    "pagamento": "2025-12-12",
+                    "valor": 0.9
+                }
+            ]
+        },
+        {
             "ticker": "PSEC11",
             "isin": "BRPSECCTF006",
             "nome": "FII PSEC PAX",
-            "peso_ifix": 0.6,
-            "preco": 43.81,
+            "peso_ifix": 0.587,
+            "preco": 42.86,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3820,8 +3820,8 @@
             "ticker": "BTCI11",
             "isin": "BRBTCICTF005",
             "nome": "FII BTG CRI",
-            "peso_ifix": 0.591,
-            "preco": 8.08,
+            "peso_ifix": 0.582,
+            "preco": 8.1,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3901,8 +3901,8 @@
             "ticker": "SNEL11",
             "isin": "BRSNELCTF010",
             "nome": "FII SUNO EL",
-            "peso_ifix": 0.564,
-            "preco": 6.87,
+            "peso_ifix": 0.565,
+            "preco": 6.84,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -3982,9 +3982,15 @@
             "ticker": "MCRE11",
             "isin": "BRMCRECTF013",
             "nome": "FII MAUA RE",
-            "peso_ifix": 0.561,
-            "preco": 6.82,
+            "peso_ifix": 0.548,
+            "preco": 6.66,
             "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-11-17",
+                    "pagamento": "2026-11-25",
+                    "valor": 0.1
+                },
                 {
                     "tipo": "rendimento",
                     "data_com": "2026-10-16",
@@ -4050,12 +4056,6 @@
                     "data_com": "2025-12-15",
                     "pagamento": "2025-12-22",
                     "valor": 0.11
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-11-17",
-                    "pagamento": "2025-11-25",
-                    "valor": 0.11
                 }
             ]
         },
@@ -4063,8 +4063,8 @@
             "ticker": "VGIP11",
             "isin": "BRVGIPCTF002",
             "nome": "FII VALORAIP",
-            "peso_ifix": 0.534,
-            "preco": 62.87,
+            "peso_ifix": 0.535,
+            "preco": 61.1,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4145,7 +4145,7 @@
             "isin": "BRTGARCTF009",
             "nome": "FII TG ATIVO",
             "peso_ifix": 0.527,
-            "preco": 30.6,
+            "preco": 30.2,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4225,8 +4225,8 @@
             "ticker": "GZIT11",
             "isin": "BRGZITCTF005",
             "nome": "FII GAZIT",
-            "peso_ifix": 0.509,
-            "preco": 31.6,
+            "peso_ifix": 0.505,
+            "preco": 31.84,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4318,8 +4318,8 @@
             "ticker": "XPCI11",
             "isin": "BRXPCICTF007",
             "nome": "FII XP CRED",
-            "peso_ifix": 0.49,
-            "preco": 76.97,
+            "peso_ifix": 0.487,
+            "preco": 76.25,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4399,8 +4399,8 @@
             "ticker": "VGHF11",
             "isin": "BRVGHFCTF005",
             "nome": "FII VALOR HE",
-            "peso_ifix": 0.459,
-            "preco": 3.84,
+            "peso_ifix": 0.463,
+            "preco": 3.87,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4480,8 +4480,8 @@
             "ticker": "RZAK11",
             "isin": "BRRZAKCTF008",
             "nome": "FII RIZA AKN",
-            "peso_ifix": 0.458,
-            "preco": 70.57,
+            "peso_ifix": 0.455,
+            "preco": 70.01,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4558,92 +4558,11 @@
             ]
         },
         {
-            "ticker": "BPML11",
-            "isin": "BRBPMLCTF006",
-            "nome": "FII BTG SHOP",
-            "peso_ifix": 0.452,
-            "preco": 82.88,
-            "proventos": [
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-10-16",
-                    "pagamento": "2026-10-23",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-09-18",
-                    "pagamento": "2026-09-25",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-08-18",
-                    "pagamento": "2026-08-25",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-07-17",
-                    "pagamento": "2026-07-24",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-06-18",
-                    "pagamento": "2026-06-25",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-05-18",
-                    "pagamento": "2026-05-25",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-04-16",
-                    "pagamento": "2026-04-24",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-03-18",
-                    "pagamento": "2026-03-25",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-02-18",
-                    "pagamento": "2026-02-25",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-01-16",
-                    "pagamento": "2026-01-23",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-12-16",
-                    "pagamento": "2025-12-23",
-                    "valor": 0.92
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-11-17",
-                    "pagamento": "2025-11-25",
-                    "valor": 0.92
-                }
-            ]
-        },
-        {
             "ticker": "KORE11",
             "isin": "BRKORECTF012",
             "nome": "FII KORE",
-            "peso_ifix": 0.436,
-            "preco": 63.13,
+            "peso_ifix": 0.445,
+            "preco": 62.94,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4720,11 +4639,92 @@
             ]
         },
         {
+            "ticker": "BPML11",
+            "isin": "BRBPMLCTF006",
+            "nome": "FII BTG SHOP",
+            "peso_ifix": 0.444,
+            "preco": 81.05,
+            "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-11-17",
+                    "pagamento": "2026-11-25",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-16",
+                    "pagamento": "2026-10-23",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-09-18",
+                    "pagamento": "2026-09-25",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-08-18",
+                    "pagamento": "2026-08-25",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-07-17",
+                    "pagamento": "2026-07-24",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-06-18",
+                    "pagamento": "2026-06-25",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-05-18",
+                    "pagamento": "2026-05-25",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-04-16",
+                    "pagamento": "2026-04-24",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-03-18",
+                    "pagamento": "2026-03-25",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-02-18",
+                    "pagamento": "2026-02-25",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-01-16",
+                    "pagamento": "2026-01-23",
+                    "valor": 0.92
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-12-16",
+                    "pagamento": "2025-12-23",
+                    "valor": 0.92
+                }
+            ]
+        },
+        {
             "ticker": "RBRP11",
             "isin": "BRRBRPCTF002",
             "nome": "FII RBRP PAX",
-            "peso_ifix": 0.388,
-            "preco": 43.22,
+            "peso_ifix": 0.39,
+            "preco": 43.9,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4805,7 +4805,7 @@
             "isin": "BRJSAFCTF000",
             "nome": "FII JS A FIN",
             "peso_ifix": 0.366,
-            "preco": 6.49,
+            "preco": 6.4,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -4878,87 +4878,6 @@
                     "data_com": "2025-11-28",
                     "pagamento": "2025-12-12",
                     "valor": 0.08
-                }
-            ]
-        },
-        {
-            "ticker": "KFOF11",
-            "isin": "BRKFOFCTF006",
-            "nome": "FII KINEAFOF",
-            "peso_ifix": 0.366,
-            "preco": 71.56,
-            "proventos": [
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-10-30",
-                    "pagamento": "2026-11-16",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-09-30",
-                    "pagamento": "2026-10-15",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-08-31",
-                    "pagamento": "2026-09-15",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-07-31",
-                    "pagamento": "2026-08-14",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-06-30",
-                    "pagamento": "2026-07-14",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-05-29",
-                    "pagamento": "2026-06-15",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-04-30",
-                    "pagamento": "2026-05-15",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-03-31",
-                    "pagamento": "2026-04-15",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-02-27",
-                    "pagamento": "2026-03-13",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-01-30",
-                    "pagamento": "2026-02-13",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-12-30",
-                    "pagamento": "2026-01-15",
-                    "valor": 0.8
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-11-28",
-                    "pagamento": "2025-12-12",
-                    "valor": 0.8
                 }
             ]
         },
@@ -4966,8 +4885,8 @@
             "ticker": "BBIG11",
             "isin": "BRBBIGCTF004",
             "nome": "FII BBIG",
-            "peso_ifix": 0.363,
-            "preco": 5.05,
+            "peso_ifix": 0.364,
+            "preco": 5.02,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5044,83 +4963,83 @@
             ]
         },
         {
-            "ticker": "AFHI11",
-            "isin": "BRAFHICTF005",
-            "nome": "FII AFHI CRI",
-            "peso_ifix": 0.352,
-            "preco": 91.46,
+            "ticker": "KFOF11",
+            "isin": "BRKFOFCTF006",
+            "nome": "FII KINEAFOF",
+            "peso_ifix": 0.364,
+            "preco": 72.03,
             "proventos": [
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-11-16",
-                    "pagamento": "2026-11-24",
-                    "valor": 0.97
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-16",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-10-15",
-                    "pagamento": "2026-10-22",
-                    "valor": 1
+                    "data_com": "2026-09-30",
+                    "pagamento": "2026-10-15",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-09-15",
-                    "pagamento": "2026-09-22",
-                    "valor": 1
+                    "data_com": "2026-08-31",
+                    "pagamento": "2026-09-15",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-08-14",
-                    "pagamento": "2026-08-21",
-                    "valor": 1
+                    "data_com": "2026-07-31",
+                    "pagamento": "2026-08-14",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-07-14",
-                    "pagamento": "2026-07-21",
-                    "valor": 1.03
+                    "data_com": "2026-06-30",
+                    "pagamento": "2026-07-14",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-06-15",
-                    "pagamento": "2026-06-22",
-                    "valor": 1.03
+                    "data_com": "2026-05-29",
+                    "pagamento": "2026-06-15",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-05-15",
-                    "pagamento": "2026-05-22",
-                    "valor": 1.03
+                    "data_com": "2026-04-30",
+                    "pagamento": "2026-05-15",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-04-15",
-                    "pagamento": "2026-04-23",
-                    "valor": 0.98
+                    "data_com": "2026-03-31",
+                    "pagamento": "2026-04-15",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-03-13",
-                    "pagamento": "2026-03-20",
-                    "valor": 0.97
+                    "data_com": "2026-02-27",
+                    "pagamento": "2026-03-13",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-02-13",
-                    "pagamento": "2026-02-24",
-                    "valor": 0.97
+                    "data_com": "2026-01-30",
+                    "pagamento": "2026-02-13",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2026-01-15",
-                    "pagamento": "2026-01-22",
-                    "valor": 1.01
+                    "data_com": "2025-12-30",
+                    "pagamento": "2026-01-15",
+                    "valor": 0.8
                 },
                 {
                     "tipo": "rendimento",
-                    "data_com": "2025-12-12",
-                    "pagamento": "2025-12-19",
-                    "valor": 1.01
+                    "data_com": "2025-11-28",
+                    "pagamento": "2025-12-12",
+                    "valor": 0.8
                 }
             ]
         },
@@ -5128,8 +5047,8 @@
             "ticker": "FATN11",
             "isin": "BRFATNCTF000",
             "nome": "FII ATHENA I",
-            "peso_ifix": 0.352,
-            "preco": 76.8,
+            "peso_ifix": 0.355,
+            "preco": 76.75,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5206,11 +5125,92 @@
             ]
         },
         {
+            "ticker": "AFHI11",
+            "isin": "BRAFHICTF005",
+            "nome": "FII AFHI CRI",
+            "peso_ifix": 0.353,
+            "preco": 90.8,
+            "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-11-16",
+                    "pagamento": "2026-11-24",
+                    "valor": 0.97
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-15",
+                    "pagamento": "2026-10-22",
+                    "valor": 1
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-09-15",
+                    "pagamento": "2026-09-22",
+                    "valor": 1
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-08-14",
+                    "pagamento": "2026-08-21",
+                    "valor": 1
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-07-14",
+                    "pagamento": "2026-07-21",
+                    "valor": 1.03
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-06-15",
+                    "pagamento": "2026-06-22",
+                    "valor": 1.03
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-05-15",
+                    "pagamento": "2026-05-22",
+                    "valor": 1.03
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-04-15",
+                    "pagamento": "2026-04-23",
+                    "valor": 0.98
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-03-13",
+                    "pagamento": "2026-03-20",
+                    "valor": 0.97
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-02-13",
+                    "pagamento": "2026-02-24",
+                    "valor": 0.97
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-01-15",
+                    "pagamento": "2026-01-22",
+                    "valor": 1.01
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-12-12",
+                    "pagamento": "2025-12-19",
+                    "valor": 1.01
+                }
+            ]
+        },
+        {
             "ticker": "HABT11",
             "isin": "BRHABTCTF001",
             "nome": "FII HABIT II",
             "peso_ifix": 0.352,
-            "preco": 59.7,
+            "preco": 58.36,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5291,7 +5291,7 @@
             "isin": "BRRCRBCTF000",
             "nome": "FII RIOB RC",
             "peso_ifix": 0.345,
-            "preco": 128.32,
+            "preco": 127.84,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5371,8 +5371,8 @@
             "ticker": "RBRL11",
             "isin": "BRRBRLCTF001",
             "nome": "FII RBRL PAX",
-            "peso_ifix": 0.343,
-            "preco": 70.18,
+            "peso_ifix": 0.341,
+            "preco": 69.64,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5452,8 +5452,8 @@
             "ticker": "ITRI11",
             "isin": "BRITRICTF008",
             "nome": "FII ITRI",
-            "peso_ifix": 0.315,
-            "preco": 68.65,
+            "peso_ifix": 0.313,
+            "preco": 67.67,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5533,8 +5533,8 @@
             "ticker": "HTMX11",
             "isin": "BRHTMXCTF000",
             "nome": "FII HOTEL MX",
-            "peso_ifix": 0.275,
-            "preco": 131.88,
+            "peso_ifix": 0.274,
+            "preco": 131.08,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5614,8 +5614,8 @@
             "ticker": "CLIN11",
             "isin": "BRCLINCTF007",
             "nome": "FII CLAVE IN",
-            "peso_ifix": 0.262,
-            "preco": 82.01,
+            "peso_ifix": 0.26,
+            "preco": 81.92,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5695,8 +5695,8 @@
             "ticker": "TEPP11",
             "isin": "BRTEPPCTF006",
             "nome": "FII TEL PROP",
-            "peso_ifix": 0.25,
-            "preco": 6.46,
+            "peso_ifix": 0.254,
+            "preco": 6.39,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5776,8 +5776,8 @@
             "ticker": "SNCI11",
             "isin": "BRSNCICTF002",
             "nome": "FII SUNO CRI",
-            "peso_ifix": 0.247,
-            "preco": 79.39,
+            "peso_ifix": 0.246,
+            "preco": 79.34,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5857,8 +5857,8 @@
             "ticker": "VINO11",
             "isin": "BRVINOCTF001",
             "nome": "FII VINCI OF",
-            "peso_ifix": 0.244,
-            "preco": 4.15,
+            "peso_ifix": 0.243,
+            "preco": 4.02,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -5938,8 +5938,8 @@
             "ticker": "TRBL11",
             "isin": "BRTRBLCTF007",
             "nome": "FII SDI LOG",
-            "peso_ifix": 0.242,
-            "preco": 42.36,
+            "peso_ifix": 0.238,
+            "preco": 41.48,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6019,8 +6019,8 @@
             "ticker": "ICRI11",
             "isin": "BRICRICTF004",
             "nome": "FII CI IPCA",
-            "peso_ifix": 0.232,
-            "preco": 81.76,
+            "peso_ifix": 0.23,
+            "preco": 81.04,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6100,8 +6100,8 @@
             "ticker": "MANA11",
             "isin": "BRMANACTF006",
             "nome": "FII MANATI",
-            "peso_ifix": 0.225,
-            "preco": 8.31,
+            "peso_ifix": 0.227,
+            "preco": 8.2,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6182,7 +6182,7 @@
             "isin": "BRRZATCTF009",
             "nome": "FII ARCTIUM",
             "peso_ifix": 0.224,
-            "preco": 72.89,
+            "preco": 70.01,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6259,92 +6259,11 @@
             ]
         },
         {
-            "ticker": "PORD11",
-            "isin": "BRPORDCTF005",
-            "nome": "FII POLO CRI",
-            "peso_ifix": 0.217,
-            "preco": 7.97,
-            "proventos": [
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-10-30",
-                    "pagamento": "2026-11-09",
-                    "valor": 0.0935
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-09-30",
-                    "pagamento": "2026-10-07",
-                    "valor": 0.098
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-08-31",
-                    "pagamento": "2026-09-08",
-                    "valor": 0.098
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-07-31",
-                    "pagamento": "2026-08-07",
-                    "valor": 0.098
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-06-30",
-                    "pagamento": "2026-07-07",
-                    "valor": 0.098
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-05-29",
-                    "pagamento": "2026-06-08",
-                    "valor": 0.098
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-04-30",
-                    "pagamento": "2026-05-08",
-                    "valor": 0.098
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-03-31",
-                    "pagamento": "2026-04-08",
-                    "valor": 0.098
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-02-27",
-                    "pagamento": "2026-03-06",
-                    "valor": 0.1
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2026-01-30",
-                    "pagamento": "2026-02-06",
-                    "valor": 0.1
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-12-30",
-                    "pagamento": "2026-01-08",
-                    "valor": 0.102
-                },
-                {
-                    "tipo": "rendimento",
-                    "data_com": "2025-11-28",
-                    "pagamento": "2025-12-05",
-                    "valor": 0.102
-                }
-            ]
-        },
-        {
             "ticker": "BCRI11",
             "isin": "BRBCRICTF009",
             "nome": "FII BEES CRI",
-            "peso_ifix": 0.216,
-            "preco": 47.18,
+            "peso_ifix": 0.218,
+            "preco": 46,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6421,11 +6340,92 @@
             ]
         },
         {
+            "ticker": "PORD11",
+            "isin": "BRPORDCTF005",
+            "nome": "FII POLO CRI",
+            "peso_ifix": 0.217,
+            "preco": 7.96,
+            "proventos": [
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-10-30",
+                    "pagamento": "2026-11-09",
+                    "valor": 0.0935
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-09-30",
+                    "pagamento": "2026-10-07",
+                    "valor": 0.098
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-08-31",
+                    "pagamento": "2026-09-08",
+                    "valor": 0.098
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-07-31",
+                    "pagamento": "2026-08-07",
+                    "valor": 0.098
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-06-30",
+                    "pagamento": "2026-07-07",
+                    "valor": 0.098
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-05-29",
+                    "pagamento": "2026-06-08",
+                    "valor": 0.098
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-04-30",
+                    "pagamento": "2026-05-08",
+                    "valor": 0.098
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-03-31",
+                    "pagamento": "2026-04-08",
+                    "valor": 0.098
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-02-27",
+                    "pagamento": "2026-03-06",
+                    "valor": 0.1
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2026-01-30",
+                    "pagamento": "2026-02-06",
+                    "valor": 0.1
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-12-30",
+                    "pagamento": "2026-01-08",
+                    "valor": 0.102
+                },
+                {
+                    "tipo": "rendimento",
+                    "data_com": "2025-11-28",
+                    "pagamento": "2025-12-05",
+                    "valor": 0.102
+                }
+            ]
+        },
+        {
             "ticker": "CYCR11",
             "isin": "BRCYCRCTF004",
             "nome": "FII CYRELA",
-            "peso_ifix": 0.213,
-            "preco": 7.97,
+            "peso_ifix": 0.21,
+            "preco": 7.94,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6505,8 +6505,8 @@
             "ticker": "KCRE11",
             "isin": "BRKCRECTF009",
             "nome": "FII KINEA CR",
-            "peso_ifix": 0.207,
-            "preco": 7.91,
+            "peso_ifix": 0.206,
+            "preco": 7.84,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6586,8 +6586,8 @@
             "ticker": "TOPP11",
             "isin": "BRTOPPCTF013",
             "nome": "FII TOPP PAX",
-            "peso_ifix": 0.204,
-            "preco": 61.55,
+            "peso_ifix": 0.203,
+            "preco": 60.59,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6667,8 +6667,8 @@
             "ticker": "XPSF11",
             "isin": "BRXPSFCTF009",
             "nome": "FII XP SELEC",
-            "peso_ifix": 0.181,
-            "preco": 5.74,
+            "peso_ifix": 0.182,
+            "preco": 5.76,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6748,8 +6748,8 @@
             "ticker": "WHGR11",
             "isin": "BRWHGRCTF008",
             "nome": "FII WHG REAL",
-            "peso_ifix": 0.175,
-            "preco": 7.78,
+            "peso_ifix": 0.178,
+            "preco": 7.8,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6829,8 +6829,8 @@
             "ticker": "LIFE11",
             "isin": "BRLIFECTF017",
             "nome": "FII LIFE",
-            "peso_ifix": 0.172,
-            "preco": 5.76,
+            "peso_ifix": 0.168,
+            "preco": 5.72,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6910,8 +6910,8 @@
             "ticker": "HCTR11",
             "isin": "BRHCTRCTF003",
             "nome": "FII HECTARE",
-            "peso_ifix": 0.15,
-            "preco": 9.32,
+            "peso_ifix": 0.148,
+            "preco": 9.03,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -6991,8 +6991,8 @@
             "ticker": "DEVA11",
             "isin": "BRDEVACTF000",
             "nome": "FII DEVANT",
-            "peso_ifix": 0.143,
-            "preco": 13.87,
+            "peso_ifix": 0.142,
+            "preco": 13.55,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7072,8 +7072,8 @@
             "ticker": "OUJP11",
             "isin": "BROUJPCTF006",
             "nome": "FII OURI JPP",
-            "peso_ifix": 0.141,
-            "preco": 58.71,
+            "peso_ifix": 0.14,
+            "preco": 58.12,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7160,7 +7160,7 @@
             "isin": "BRMFIICTF008",
             "nome": "FII MERITO I",
             "peso_ifix": 0.138,
-            "preco": 27.88,
+            "preco": 27.3,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7241,7 +7241,7 @@
             "isin": "BRURPRCTF002",
             "nome": "FII URCA REN",
             "peso_ifix": 0.136,
-            "preco": 16.04,
+            "preco": 15.79,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7321,8 +7321,8 @@
             "ticker": "VGRI11",
             "isin": "BRVGRICTF008",
             "nome": "FII VGRI",
-            "peso_ifix": 0.132,
-            "preco": 5.23,
+            "peso_ifix": 0.134,
+            "preco": 5.21,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7402,8 +7402,8 @@
             "ticker": "HSAF11",
             "isin": "BRHSAFCTF004",
             "nome": "FII HSI CRI",
-            "peso_ifix": 0.125,
-            "preco": 67.5,
+            "peso_ifix": 0.126,
+            "preco": 67.33,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7484,7 +7484,7 @@
             "isin": "BRSPXSCTF002",
             "nome": "FII SPX SYN",
             "peso_ifix": 0.105,
-            "preco": 7.08,
+            "preco": 7.05,
             "proventos": [
                 {
                     "tipo": "rendimento",
@@ -7564,8 +7564,8 @@
             "ticker": "CACR11",
             "isin": "BRCACRCTF004",
             "nome": "CARTESIA FII",
-            "peso_ifix": 0.035,
-            "preco": 9.79,
+            "peso_ifix": 0.034,
+            "preco": 9,
             "proventos": [
                 {
                     "tipo": "rendimento",
